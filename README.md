@@ -1,6 +1,6 @@
 
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Christian Fiedker and I am currently pursuing a master's degree in Computer Science at RWTH Aachen. Love everything data-related!
+My name is Christian Fiedler and I am currently pursuing a master's degree in Computer Science at RWTH Aachen. Love everything data-related!
 
 # Social Media
 You can also find me on [![LinkedIn][2.2]][2].
